@@ -1,11 +1,13 @@
+> :warning: This is still WIP, be aware of future changes.
+
 # nixos-config
 
 Here, I'm publishing my NixOS configuration.
 
-This is the configuration for my main system that I use, I also have a laptop where I'm currently using Arch Linux but a switch to NixOS is planned.
+This is the configuration for my main system. I also have a laptop running Arch Linux, but I plan to switch it to NixOS soon.
 
-As you can see in the configuration, that I use an Nvidia card.
-I use the open version of the driver (open-dkms).
-Because of this, I use `nixos-unstable` for the packages I use and my system in general.
+As you can see in the configuration, I use an nvidia card.
+I use the open-source version of the Nvidia drivers (`open-driver-kernel-modules`).
+Because of this, I use `nixos-unstable` for both my packages and system.
 
 If you have suggestions, questions or anything else, feel free to open an issue or a pull request.
