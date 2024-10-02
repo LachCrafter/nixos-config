@@ -76,6 +76,8 @@
     neofetch
     prismlauncher
     gnome-tweaks
+    git
+    jetbrains.idea-ultimate
   ];
 
   # Some programs need SUID wrappers, can be configured further or are
