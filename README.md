@@ -1,4 +1,4 @@
-> :warning: This is still WIP, be aware of future changes.
+> :warning: This is still WIP, be aware of changes in the future.
 
 # nixos-config
 
