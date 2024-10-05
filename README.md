@@ -2,7 +2,7 @@
 
 # nixos-config
 
-Here, I'm publishing my NixOS configuration.
+Here, I'm publishing my NixOS configuration and infrastructure.
 
 This is the configuration for my main system. I also have a laptop running Arch Linux, but I plan to switch it to NixOS soon.
 
